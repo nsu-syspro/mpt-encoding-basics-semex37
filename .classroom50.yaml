@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "encoding-basics"
+owner:
+  username: "Semex37"
+  id: 316418835
+  accepted_at: "2026-09-23T10:35:54Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-encoding-basics"
+  branch: "main"
